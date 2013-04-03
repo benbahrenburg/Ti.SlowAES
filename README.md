@@ -4,7 +4,7 @@ SlowAES wrapper for Titanium Mobile
 
 <h2>Example</h2>
 
-Please see the [app.js]() located in this repo for an example on how to implement Ti.SlowAES within your app.
+Please see the [app.js](https://github.com/benbahrenburg/Ti.SlowAES/blob/master/app.js) located in this repo for an example on how to implement Ti.SlowAES within your app.
 
 <h2>Licensing & Support</h2>
 
