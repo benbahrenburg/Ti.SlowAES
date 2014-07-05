@@ -8,7 +8,7 @@ Please see the [app.js](https://github.com/benbahrenburg/Ti.SlowAES/blob/master/
 
 <h2>Licensing & Support</h2>
 
-The SlowAES JavaScript files are licensed under Apache Public License (version 2). For details please visit [ode.google.com/p/slowaes](https://code.google.com/p/slowaes/)
+The SlowAES JavaScript files are licensed under Apache Public License (version 2). For details please visit [code.google.com/p/slowaes](https://code.google.com/p/slowaes/)
 
 Ti.SlowAES.js is licensed under the following:
 
